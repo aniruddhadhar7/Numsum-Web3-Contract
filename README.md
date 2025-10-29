@@ -9,7 +9,8 @@ This project is designed for **learning smart contracts, randomness, and payouts
 
 
 
----
+---<img width="1920" height="1080" alt="Screenshot 2025-10-29 141956" src="https://github.com/user-attachments/assets/64d333ec-1aca-4efa-8998-37c57782be1e" />
+
 
 ## 💡 What It Does  
 1. The player sends a small ETH bet along with their guess (0–18).  
@@ -30,7 +31,6 @@ This project is designed for **learning smart contracts, randomness, and payouts
 
 ## 🌐 Deployed Smart Contract  
 **Network:** Ethereum / Testnet (e.g., Sepolia)  
-**Deployed Address:** `XXX`  
-*(Replace XXX with your deployed contract address once live)*  
+**Deployed Address:** `https://celo-sepolia.blockscout.com/address/0x3560943e279CD8E049dFf8B54692cEA2Abb85E05https://celo-sepolia.blockscout.com/address/0x3560943e279CD8E049dFf8B54692cEA2Abb85E05`
 
 ---
