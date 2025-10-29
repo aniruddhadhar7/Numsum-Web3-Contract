@@ -7,6 +7,8 @@ If their guess is correct, they instantly win **2× their bet**!
 
 This project is designed for **learning smart contracts, randomness, and payouts** on the Ethereum blockchain.  
 
+
+
 ---
 
 ## 💡 What It Does  
